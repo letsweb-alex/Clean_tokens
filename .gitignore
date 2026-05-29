@@ -1,0 +1,6 @@
+.DS_Store
+task.md
+CLAUDE.local.md
+.claude/settings.local.json
+codebase-map.html
+*.log
