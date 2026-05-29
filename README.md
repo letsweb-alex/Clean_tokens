@@ -1,3 +1,5 @@
+<img width="50%" height="50%" alt="Clean_Tokens" src="https://github.com/user-attachments/assets/928d5f29-bb39-4de3-b4f5-1a558c9908f1" />
+
 # Clean Tokens
 
 Open-standard markdown skill for GitHub Copilot agents and Claude Code that washes noisy prompts before execution.
